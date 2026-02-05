@@ -1,0 +1,19 @@
+sistema-pagamentos/
+├── .vscode/
+│   └── settings.json
+├── src/
+│   └── com/
+│       └── sistema/
+│           └── pagamentos/
+│               ├── MetodoPagamento.java
+│               ├── PagamentoCartaoCredito.java
+│               ├── PagamentoPayPal.java
+│               ├── PagamentoPix.java
+│               ├── MetodoPagamentoFactory.java
+│               ├── PagamentoObserver.java
+│               ├── ProcessadorPagamento.java
+│               ├── EmailNotificacao.java
+│               ├── SistemaLog.java
+│               ├── PainelAdmin.java
+│               └── SistemaPagamento.java
+└── bin/ (será criado automaticamente)

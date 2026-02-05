@@ -1,0 +1,13 @@
+=== SISTEMA DE PAGAMENTOS ===
+
+1. Criando métodos de pagamento via Factory Method:
+
+2. Executando pagamentos:
+
+--- Pagamento 1: Cartão de Crédito ---
+Processando pagamento de R$150.5 via Cartão de Crédito
+Cartão: ****5678
+Enviando email para cliente@email.com: Iniciando processamento de pagamento via CARTÃO_CRÉDITO
+[LOG] Mon Feb 05 10:00:00 BRT 2024 - Iniciando processamento de pagamento via CARTÃO_CRÉDITO
+[PAINEL ADMIN] Nova atividade: Iniciando processamento de pagamento via CARTÃO_CRÉDITO
+... (continua)
